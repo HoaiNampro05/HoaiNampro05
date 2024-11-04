@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Information and Technology
 - 💞️ I’m looking to collaborate on github
+- 💞️ I'm very interested in system architecture and optimization
 - 📫 How to reach me ...
 
 <!---
